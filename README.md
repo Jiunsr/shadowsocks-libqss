@@ -1,5 +1,5 @@
 # shadowsocks-libqss
-
+1
 1，window 安装包管理工具
 chocolatey 怎么玩？如下：
 
