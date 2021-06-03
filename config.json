@@ -2,7 +2,7 @@
     "server":"0.0.0.0",
     "server_port":2020,
     "local_address":"127.0.0.1",
-    "local_port":1080,
+    "local_port":1081,
     "password":"jiunsr97",
     "timeout":600,
     "method":"aes-256-cfb",
